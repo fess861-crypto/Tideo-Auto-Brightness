@@ -55,7 +55,7 @@ android {
             // the suffix and the two packages don't conflict on install.
             applicationIdSuffix = ".debug"
             versionNameSuffix = "-debug"
-            manifestPlaceholders["appLabel"] = "Tideo AB (Debug)"
+            manifestPlaceholders["appLabel"] = "Tideo Автояркость RU"
         }
     }
 
